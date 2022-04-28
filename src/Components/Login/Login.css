@@ -1,0 +1,20 @@
+.google_login {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.button_login {
+    display: flex;
+    width: 10%;
+    justify-content: space-between;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+}
+.text_title {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}

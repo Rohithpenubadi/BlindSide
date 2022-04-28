@@ -1,0 +1,26 @@
+.main_content {
+    bottom: 10px;
+}
+.header {
+    background-color: cadetblue;
+    position: sticky;
+    top: 0px;
+    color: white;
+    display: flex;
+    height: 100px;
+    justify-content: space-around;
+    align-items: center;
+    bottom: 10px;
+}
+.title {
+    font-size: 32px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.signout {
+    display: flex;
+    justify-content: flex-end;    
+    cursor: pointer;
+}
+
